@@ -1,0 +1,6 @@
+PyQt6>=6.4.0
+PyQt6-Qt6>=6.4.0
+PyQt6-sip>=13.4.0
+PyAudio>=0.2.13
+numpy>=1.24.0
+wave>=0.0.2
